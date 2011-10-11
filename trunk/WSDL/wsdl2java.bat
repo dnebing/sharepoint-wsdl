@@ -1,0 +1,3 @@
+"D:\Program Files\Java\jdk1.6.0_20\bin\java.exe" -classpath "D:\Program Files\axis-1_4\lib\axis.jar";"D:\Program Files\axis-1_4\lib\axis-ant.jar";"D:\Program Files\axis-1_4\lib\commons-discovery-0.2.jar";"D:\Program Files\axis-1_4\lib\commons-logging-1.0.4.jar";"D:\Program Files\axis-1_4\lib\jaxrpc.jar";"D:\Program Files\axis-1_4\lib\log4j-1.2.8.jar";"D:\Program Files\axis-1_4\lib\saaj.jar";"D:\Program Files\axis-1_4\lib\wsdl4j-1.5.1.jar";"D:\Program Files\axis-1_4\lib\mail.jar" org.apache.axis.wsdl.WSDL2Java -a "Webs.asmx.xml"
+
+pause
