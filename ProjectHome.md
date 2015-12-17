@@ -1,0 +1,1 @@
+This project contains java wrapper for Windows SharePoint Services Web Services.
